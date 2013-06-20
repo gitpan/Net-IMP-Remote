@@ -5,8 +5,8 @@ use warnings;
 use Net::IMP::Remote::Protocol;
 use Net::IMP qw(:DEFAULT :log);
 use Net::IMP::Debug;
-use Sereal::Encoder;
-use Sereal::Decoder;
+use Sereal::Encoder 0.36;
+use Sereal::Decoder 0.36;
 
 my $wire_version = 0x00000001;
 
