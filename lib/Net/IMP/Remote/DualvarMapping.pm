@@ -36,6 +36,7 @@ my %rt_i2d = map { ( $_+0 => $_ ) } (
     IMP_PREPASS,
     IMP_DENY,
     IMP_DROP,
+    IMP_FATAL,
     IMP_TOSENDER,
     IMP_REPLACE,
     IMP_PAUSE,
