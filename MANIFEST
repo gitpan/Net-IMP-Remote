@@ -14,5 +14,4 @@ README
 t/01_load.t
 t/02_rpc2buf2rpc.t
 TODO
-META.yml                                 Module YAML meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
+META.yml                                 Module meta-data (added by MakeMaker)
